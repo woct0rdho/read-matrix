@@ -1,6 +1,6 @@
 # read-matrix
 
-The Matrix非官方解释重制版
+The Matrix 非官方解释 重制版
 
 [第一部](https://github.com/martinwu42/read-matrix/raw/master/Read%20Matrix/Read%20Matrix.pdf)
 
